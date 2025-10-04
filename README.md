@@ -57,7 +57,12 @@ Furthermore, the script utilises the API of OpenWeatherMap to retrieve current w
 With the help of a friend I managed to design a pcb using KiCad and ordered it from pcbway.
 The PCB-Design is very basic and still has room for improvement. 
 This is an area where I had no previous experience in and I learned a lot from tinkering around with KiCad.
+<br> </br>
 <img width="1420" height="1432" alt="image" src="https://github.com/user-attachments/assets/c27b0b09-86a5-4110-8d3c-307a3753b372" />
+<br> </br>
+This is the PCB Prototype before soldering all the components to it. Unfortunately the assembly and final test has to wait until my studies are finished.
+<br> </br>
+![pcb](https://github.com/user-attachments/assets/2e6bcc47-401e-4b1b-b7bb-19928b0c326f)
 
 
 ## Learnings
